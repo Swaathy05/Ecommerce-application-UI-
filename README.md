@@ -1,4 +1,4 @@
-# MyApplication — Ecommerce UI
+Ecommerce Application UI
 
 Simple Android ecommerce UI built with Android Studio. Contains screens for product listing, product details, cart and checkout flows (UI only).
 
