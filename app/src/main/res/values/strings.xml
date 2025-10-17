@@ -1,0 +1,91 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Buyzy</string>
+
+    <!-- Categories -->
+    <string name="Stationery">Stationery</string>
+    <string name="Pet_Food">Pet Foods</string>
+    <string name="Packaged_Foods">Packaged Foods</string>
+    <string name="Fresh_Produce">Fresh Produces</string>
+    <string name="Diary_Products">Diary Products</string>
+    <string name="Snacks_and_Beverages">Snacks and Beverages</string>
+    <string name="Bakery_items">Bakery Items</string>
+    <string name="Household_Essentials">Household Essentials</string>
+    <string name="Personal_Care">Personal Care</string>
+    <string name="Smoothies">Smoothies</string>
+
+    <!-- Fresh Produce Items -->
+    <string name="Apples">Apple</string>
+    <string name="Bananas">Banana</string>
+    <string name="Oranges">Orange</string>
+    <string name="Mangoes">Mango</string>
+    <string name="Grapes">Grapes</string>
+    <string name="Tomato">Tomato</string>
+    <string name="Carrot">Carrot</string>
+    <string name="Onion">Onion</string>
+    <string name="Potato">Potato</string>
+    <string name="Spinach">Spinach</string>
+
+    <!-- Bakery Items -->
+    <string name="Bread">Bread</string>
+    <string name="Croissant">Croissant</string>
+    <string name="Muffins">Muffins</string>
+    <string name="Cakes">Cake</string>
+    <string name="Pastry">Pastry</string>
+
+    <!-- Diary Products -->
+    <string name="Milk">Milk</string>
+    <string name="Cheese">Cheese</string>
+    <string name="Butter">Butter</string>
+    <string name="Yogurt">Yogurt</string>
+    <string name="Cream">Cream</string>
+
+    <!-- Snacks and Beverages -->
+    <string name="Chips">Chips</string>
+    <string name="Soda">Soda</string>
+    <string name="Cookies">Cookies</string>
+    <string name="Juice">Juice</string>
+    <string name="Nuts">Nuts</string>
+
+    <!-- Packaged Foods -->
+    <string name="Noodles">Noodles</string>
+    <string name="Soup">Soup</string>
+    <string name="Sauce">Sauce</string>
+    <string name="Cereal">Cereal</string>
+    <string name="Candies">Candy</string>
+
+    <!-- Stationery -->
+    <string name="Notebook">Notebook</string>
+    <string name="Pen">Pen</string>
+    <string name="Pencil">Pencil</string>
+    <string name="Eraser">Eraser</string>
+    <string name="Marker">Marker</string>
+
+    <!-- Pet Food -->
+    <string name="Dog_Food">Dog Food</string>
+    <string name="Cat_Food">Cat Food</string>
+    <string name="Bird_Seeds">Bird Seeds</string>
+    <string name="Fish_Food">Fish Food</string>
+    <string name="Treats">Treats</string>
+
+    <!-- Personal Care -->
+    <string name="Shampoo">Shampoo</string>
+    <string name="Soap">Soap</string>
+    <string name="Toothpaste">Toothpaste</string>
+    <string name="Lotion">Lotion</string>
+    <string name="Deodorant">Deodorant</string>
+
+    <!-- Household Essentials -->
+    <string name="Detergent">Detergent</string>
+    <string name="Tissue_papers">Tissue Paper</string>
+    <string name="Cleaners">Cleaners</string>
+    <string name="Sponges">Sponges</string>
+    <string name="Dustbin">Dustbin</string>
+
+    <!-- Smoothies -->
+    <string name="Berry_Smoothie">Berry Smoothie</string>
+    <string name="Mango_Smoothie">Mango Smoothie</string>
+    <string name="Green_Smoothie">Green Smoothie</string>
+    <string name="Protein_Smoothie">Protein Smoothie</string>
+    <string name="Tropical_Smoothie">Tropical Smoothie</string>
+</resources>
